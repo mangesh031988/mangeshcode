@@ -1,0 +1,28 @@
+
+***************ETEE-Data-Analysis-Of-iSchool-Classes.ipynb******************
+
+Source:
+https://ischool.syr.edu/classes/
+Code:
+https://github.com/IST256/learn-python/tree/master/content/lessons/12/end-to-end-example/ETEE-Data-Analysis-Of-iSchool-Classes.ipynb
+
+
+
+# Normal Pandas command
+
+import pandas as pd
+
+# this turns off warning messages
+import warnings
+warnings.filterwarnings('ignore')
+
+
+Activity:
+
+1. Write all 5 pages of the schedule into a single pandas data frame
+2. Figure out which grad which are undergrad
+3. Display the undergrad 8am classes
+4. Display the undergrad friday classes
+
+
+
