@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 12 20:49:52 2019
 
-Question 3 : Write a program to check the validity of password given by user. 
+Write a program to check the validity of password given by user. 
 
 Following are the criteria for checking password:
 1. At least 1 letter between [a-z]
