@@ -21,5 +21,3 @@ if abc == rev:
 	print("number is palindrome")
 else:
 	print("number is not palindrome")
-
-
