@@ -23,4 +23,3 @@ else:
     for i in range(1,number + 1):
         factorial = factorial*i
     print("The Factorial for", number, "is",factorial )
-    
