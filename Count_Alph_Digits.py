@@ -21,3 +21,4 @@ print(cnt1)
 print("The number of letters is:")
 print(cnt2)
 
+
